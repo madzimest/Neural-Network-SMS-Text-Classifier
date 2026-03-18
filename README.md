@@ -22,8 +22,8 @@ The [SMS Spam Collection dataset](https://www.kaggle.com/datasets/uciml/sms-spam
 - `valid-data.tsv` – 1,207 labeled messages for validation
 
 Each file contains two columns:
-- `label` – `ham` or `spam`
-- `text` – the raw SMS content
+- `label` `ham` or `spam`
+- `text` the raw SMS content
 
 **Class distribution (training set):**
 - ham: 4,255 (88.2%)
